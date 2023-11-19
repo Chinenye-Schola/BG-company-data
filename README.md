@@ -9,4 +9,3 @@ summarise the main points of interest from the data
 set and allow further detailed data enquiries.
 3. Demonstrate a critical awareness of the impact of the 
 data.
-Guidel
